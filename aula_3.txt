@@ -1,0 +1,216 @@
+    1  node --version
+    2  sudo apt install nodejs
+    3  sudo apt install npm
+    4  sudo apt update npm
+    5  sudo apt update
+    6  apt-get update npm
+    7  sudo apt-get update npm
+    8  sudo apt-get update nodejs
+    9  sudo apt update nodejs
+   10  node --version
+   11  phyton --version
+   12  pyton --version
+   13  p
+   14  python --version
+   15  python
+   16  python3
+   17  sudo su
+   18  htop
+   19  sudo su
+   20  su
+   21  sudo passwd
+   22  sudo apt-get isntall unrar
+   23  su
+   24  sudo passwd
+   25  ping 1.1.1.1
+   26  sudo su
+   27  htop
+   28  neofetch
+   29  google-chrome
+   30  sudo apt update
+   31  sudo apt upgrade
+   32  exit
+   33  htop
+   34  neofetch
+   35  exit
+   36  sudo su
+   37  neofetch 
+   38  sudo apt-get remove
+   39  sudo apt-get remove google chrom --auto-remove
+   40  sudo dpkg-r google-chrome-stable
+   41  123
+   42  sudo apt install gnome-tweaks
+   43  sudo remover
+   44  clear
+   45  add-apt-repository ppa:git-core/ppa
+   46  # add-apt-repository ppa:git-core/ppa 
+   47  sudo apt-get update
+   48  sudo apt-get install git
+   49  git log
+   50  clear
+   51  ls
+   52  ls a-
+   53  ls -a
+   54  pwd
+   55  cd Videos
+   56  cd Modelos
+   57  cd ~
+   58  mkdir Comandos
+   59  cd Comandos
+   60  mkdir pasta nova
+   61  ls
+   62  mkdir -pasta/vieja  
+   63  mkdir -p pasta/vieja1
+   64  ls
+   65  cd pasta
+   66  cd ..
+   67  cd pasta
+   68  ls
+   69  cd ..
+   70  cd nova
+   71  ls
+   72  cd Nova
+   73  cd ..
+   74  cd Nova
+   75  ls
+   76  cd ..
+   77  cd Pasta
+   78  ls
+   79  cd ..
+   80  ls -a
+   81  rm -r nova pasta
+   82  ls
+   83  clear
+   84  ls
+   85  mv `Nueva` nueva_pasta
+   86  mv 'Nueva' nueva_pasta
+   87  ls
+   88  mv new nueva_pasta/
+   89  ls
+   90  mv new Pasta/
+   91  mv new pasta
+   92  ls nueva_pasta
+   93  ls Nova
+   94  ls Pasta
+   95  clear
+   96  cd ~
+   97  ls -a
+   98  ls .steampath
+   99  rm -r .steampath
+  100  ls -a
+  101  rm -r .steampid
+  102  ls
+  103  ls -a
+  104  clear
+  105  cd Comandos
+  106  ls -a
+  107  ls
+  108  mv Nova nueva-pasta/
+  109  ls nueva_pasta
+  110  ls
+  111  mv Pasta nueva_pasta/
+  112  ls
+  113  ls nueva_pasta
+  114  touch arquivo.txt
+  115  ls
+  116  cp arquivo.txt nueva-pasta
+  117  ls nueva-pasta
+  118  clear
+  119  echo 'Mensagem'
+  120  echo 'mensagem' > comando.txt
+  121  cat comando.txt
+  122  cat
+  123  clear
+  124  cat arquivo.txt
+  125  cat > arquivo.txt
+  126  cat arquivo.txt
+  127  cat >> comando.txt
+  128  cat arquivo.txt
+  129  cat >> arquivo.txt
+  130  cat arquivo.txt
+  131  ls
+  132  ls arquivo.txt
+  133  ls nueva_pasta
+  134  clear
+  135  help ls
+  136  info ls
+  137  clear
+  138  man ls
+  139  history
+  140  history 5
+  141  history > historico.txt
+  142  cat historico.txt
+  143  git config user.name
+  144  ls
+  145  cd 'Area de Trabalho'
+  146  CD Modelos
+  147  cd Modelos/
+  148  mkdir Curso_Git
+  149  cd Curso_Git
+  150  git config user.name
+  151  git init
+  152  git status
+  153  echo '#Aprendendo usar o Git' > readme.md 
+  154  git statu
+  155  git status
+  156  clear
+  157  git status
+  158  git add readme.md
+  159  git status
+  160  git commit -m 'Commit inicial'
+  161  git status
+  162  clear
+  163  ls
+  164  mkdir turmas1819
+  165  ls
+  166  mkdir turma18 turma19
+  167  ls
+  168  mkdir 'turma18 e turma19'
+  169  ls
+  170  cd turma18\ turma19/
+  171  ls
+  172  cat versionamento de > texte.txt
+  173  ls
+  174  ls -a
+  175  cat Comandos
+  176  cd Comandos 
+  177  ls -a
+  178  cd ~
+  179  cd Modelos 
+  180  ls -a
+  181  cd Curso_Git
+  182  ls -a
+  183  clear
+  184  ls -a
+  185  git config user.name
+  186  git init
+  187  git status
+  188  git add texte.txt 
+  189  ls -a
+  190  ls readme.md
+  191  git status
+  192  git commit -m 'Commit inicial'
+  193  git status 
+  194  echo '##Aula 1' >> readme.md
+  195  git status
+  196  echo 'Nailen Aguiar' participantes.txt
+  197  echo 'nailen aguiar' > participantes.txt
+  198  git status
+  199  clear
+  200  git sattus
+  201  git status
+  202  git add .
+  203  git status
+  204  git restore --staged participantes.txt
+  205  git status
+  206  git add participantes.txt
+  207  git status
+  208  clear
+  209  git status
+  210  git restore --staged .
+  211  git status
+  212  git commit -am 'Alteração no readme'
+  213  git status
+  214  git add participantes.txt
+  215  git commit -m 'Adicionado participantes.txt'
+  216  history > aula_3.txt
